@@ -1,0 +1,8 @@
+# Data files
+*.data 
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Questions PDF
+CS_328-2021-Homework-2.pdf
