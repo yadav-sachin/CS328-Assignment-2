@@ -2,6 +2,7 @@
 Sachin Yadav 18110148
 
 ### GitHub Link: [https://github.com/yadav-sachin/CS328-Assignment-2](https://github.com/yadav-sachin/CS328-Assignment-2)
+**The PDF file may not show formatting well. Check the Markdown file here: **
 
 
 
