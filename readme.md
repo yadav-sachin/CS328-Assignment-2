@@ -21,6 +21,8 @@ Sachin Yadav 18110148
 
 ## Ques 4.
 ### File: ques4.ipynb
+### Colab Link: https://colab.research.google.com/drive/1b5oGbPErcwkGiypdSz1tUTgNGijX8978?usp=sharing
+
 **Average Relative Error Percentage Table**    
 
    
@@ -52,6 +54,7 @@ Min w for average error < 1% : **904**
 
 ## Ques 5.
 ### File : ques5.ipynb
+### Colab Link: https://colab.research.google.com/drive/1q__OQZLYr9lCjcPjrD7Scmk0Ykqdgi5-?usp=sharing
 
 **Low-Rank Approximation**
 **Error vs k plot**    
